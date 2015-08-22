@@ -5,7 +5,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		String name="malk'eet";
 		System.out.println(name.replaceAll("'", "'''"));
-
+		//asdasdasasasd
 	}
 
 }
