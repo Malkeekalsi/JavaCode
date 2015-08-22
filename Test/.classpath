@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/libraries/lib/icepdf-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/libraries/lib/icepdf-viewer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/libraries/lib/jai_core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/libraries/lib/jai_imageio.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/temp/Bandhan_Encryption.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
