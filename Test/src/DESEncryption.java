@@ -29,6 +29,7 @@ public class DESEncryption {
 
 	public DESEncryption() throws Exception
 	{
+		;
 		myEncryptionKey = "ThisIsSecretEncryptionKey";
 		myEncryptionScheme = DES_ENCRYPTION_SCHEME;
 		keyAsBytes = myEncryptionKey.getBytes(UNICODE_FORMAT);
